@@ -1,0 +1,169 @@
+== Urabstimmungsordnung der Studierendenschaft der Heinrich-Heine-Universität
+
+include::util::disclaimer.adoc[]
+
+== I. Allgemeines
+=== § 1 Geltungsbereich
+Diese Urabstimmungsordnung regelt die Urabstimmungen im Sinne der §§ xref:satzung::index.adoc#_6_diskriminierungsverbot_für_veranstaltungen[6] und xref:satzung::index.adoc#_7_rechtsgeschäftliche_erklärungen_der_studierendenschaft[7] der Satzung der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf.
+
+=== § 2 Abstimmungsrecht
+Abstimmungsberechtigt sind alle Mitglieder der Studierendenschaft im Sinne des xref:satzung::index.adoc#_1_begriffsbestimmung_und_rechtsstellung[§ 1 Absatz 1 der Satzung].
+
+=== § 3 Anwendung der Wahlordnung
+Die Vorschriften der Wahlordnung zu den Wahlen zum Studierendenparlament (xref:wahlordnung::index.adoc[WO]) über das Wahlverzeichnis (xref:wahlordnung::index.adoc#_8_wahlverzeichnis[§ 8 WO]), die Wahlunterlagen (xref:wahlordnung::index.adoc#_12_wahlunterlagen[§ 12 WO]), Urnenwahl (xref:wahlordnung::index.adoc#_13_urnenwahl[§ 13 WO]), Briefwahl (xref:wahlordnung::index.adoc#_14_briefwahl[§ 14 WO]), Wahlsicherung (xref:wahlordnung::index.adoc#_15_wahlsicherung[§ 15 WO]), Abbruch der Wahl (xref:wahlordnung::index.adoc#_16_abbruch_der_wahl[§ 16 WO]), Wahlauszählung (xref:wahlordnung::index.adoc#_17_wahlauszählung[§ 17 WO]), sowie Wahlbericht und Ausschussunterlagen (xref:wahlordnung::index.adoc#_20_wahlbericht_ausschussunterlagen[§ 20 WO]) gelten in der jeweils geltenden Fassung entsprechend, soweit diese Ordnung nichts anderes bestimmt. An Stelle der Wahl tritt entsprechend die Abstimmung. Ebenso gelten die Vorschriften der WO in der jeweils geltenden Fassung entsprechend, wenn im Folgenden auf sie verwiesen wird.
+
+== II. Antragstellung
+=== § 4 Einleitung einer Urabstimmung
+Eine Urabstimmung wird durchgeführt, wenn
+
+a. das Studierendenparlament (SP) dies mit zwei Drittel der Abstimmenden auf Antrag beschließt oder
+
+b. einem Antrag auf Urabstimmung nach xref:satzung::index.adoc#_7_rechtsgeschäftliche_erklärungen_der_studierendenschaft[§ 7 Absatz 1 Satz 1 der Satzung] (Abstimmungsverlangen) stattgegeben wird.
+
+=== § 5 Antragsberechtigung
+Antragsberechtigt ist, wer abstimmungsberechtigt ist. Für Anträge an das SP ist zusätzlich berechtigt, wer nach der Geschäftsordnung des SP antragsberechtigt ist.
+
+=== § 6 Inhalt und Form des Antrages
+(1) Ein Antrag auf Urabstimmung enthält:
+
+1. einen Titel, der den Gegenstand der Urabstimmung kurz beschreibt,
+2. den Beschlusstext über den die Abstimmung beantragt wird,
+3. die Antragstellenden und
+4. die Liste der unterstützenden Personen, im Falle eines Abstimmungsverlangen.
+
+Bei einem Antrag an das SP sind ergänzend die Bestimmungen seiner Geschäftsordnung einzuhalten.
+
+(2) Wird eine Änderung der Satzung beantragt, so muss der Beschlusstext die beantragte Änderung der Satzung im Wortlaut wiedergeben.
+
+(3) Der Antrag kann zusätzlich enthalten:
+
+1. den Namen der Initiative, die den Antrag gemeinschaftlich stellt und
+2. eine Begründung des Antrages.
+
+(4) Abstimmungsverlangen sind schriftlich zu stellen. Die Unterstützenden sind entweder mit Namen und Vornamen oder mit ihrer Matrikelnummer aufzuführen. Das Geburtsdatum ist ebenfalls zu nennen. Der Antrag ist von den einzelnen Unterstützenden zu unterzeichnen. Auf jeder Seite des Antrages, auf der die Unterstützenden unterzeichnen, sind mindestens die Angaben nach Absatz 1 Nummer 1 und 2 zu wiederholen oder die einzelnen Unterstützenden erklären mit der Unterzeichnung Kenntnis von den Angaben nach Absatz 1 Nummer 1 und 2 zu haben. Im letzteren Fall ist mindestens der Titel nach Absatz 1 Nummer 1 zu wiederholen.
+
+(5) Hat das SP ein einheitliches Antragsformular für Abstimmungsverlangen beschlossen, so ist dieses zu verwenden. Es ist dauerhaft auf der Internetseite des SP zu veröffentlichen.
+
+=== § 7 Die Antragstellenden
+Die Antragstellenden haben dem SP-Präsidium ihre Kontaktdaten (mindestens die Universitäts-E-MailAdresse) mitzuteilen. Wird dem Abstimmungsverlangen stattgegeben oder beschließt das SP eine Urabstimmung, sind die Kontaktdaten an den Urabstimmungsausschuss zu übermitteln.
+
+=== § 8 Bearbeitung von Abstimmungsverlangen
+(1) Ein Abstimmungsverlangen ist beim SP-Präsidium einzureichen. Die Unterstützungslisten können auch zeitlich gestreckt in mehreren Teilen eingereicht werden. In diesem Fall haben die Antragstellenden das Ende der Einreichung anzuzeigen.
+
+(2) Das SP-Präsidium hat ein Abstimmungsverlangen nach Ende der Einreichung unverzüglich zu prüfen und zu beschließen, ob
+
+a. dem Abstimmungsverlangen stattgegeben wird,
+b. einen Mangel an gültigen Unterstützenden abzuhelfen ist oder
+c. das Abstimmungsverlangen abgelehnt wird.
+
+(3) Der Beschluss ist der Vertrauensperson und dem SP mitzuteilen. Ablehnung und Aufforderung zur Mängelbehebung sind zu begründen. xref:satzung::index.adoc#_5_allgemeine_bestimmungen_für_die_organe_und_gremien[§ 5 Absatz 2] der Satzung findet auf den Beschluss Anwendung.
+
+(4) Das Abstimmungsverlangen ist abzulehnen, wenn
+
+a. die Anforderungen an den Antrag nach <<_6_inhalt_und_form_des_antrages, § 6>> nicht eingehalten sind,
+b. der Beschlusstext mit <<_6_inhalt_und_form_des_antrages, § 6 Absatz 2>> und xref:satzung::index.adoc#_7_rechtsgeschäftliche_erklärungen_der_studierendenschaft[§ 7 Absatz 3] der Satzung unvereinbar ist oder
+c. das Quorum nach xref:satzung::index.adoc#_7_rechtsgeschäftliche_erklärungen_der_studierendenschaft[§ 7 Absatz 1 Satz 1] der Satzung an Unterstützenden endgültig nicht erreicht ist.
+
+(5) Geht das SP-Präsidium davon aus, dass ein auf Grund der Urabstimmung gefasster verbindlicher Beschluss gegen eine anzuwendende Rechtsvorschrift verstoßen würde, so legt es den Antrag dem Rechtsausschuss zur Prüfung vor. Beschließt der Rechtsausschuss die Unvereinbarkeit, so ist das Abstimmungsverlangen abzulehnen.
+
+(6) Das SP-Präsidium prüft, ob das Quorum erreicht ist, anhand des Antragsberechtigtenverzeichnis. Zur Unterstützung kann es sich freiwilligen Personen bedienen, die nicht zu den Antragstellenden oder zu den Unterstützenden gehören dürfen. Für diese Tätigkeit ist ein Erfrischungsgeld zu gewähren.
+
+(7) Ein Abstimmungsverlangen ist nicht allein deshalb abzulehnen, weil einzelne Seiten oder einzelne Unterstützungen nicht den Anforderungen des <<_6_inhalt_und_form_des_antrages, § 6 Absatz 4>> genügen. Diese sind lediglich beim Prüfen, ob das Quorum erreicht ist, unberücksichtigt zu lassen.
+
+(8) Wird das Quorum nicht erreicht, so sind die Antragstellenden aufzufordern diesen Mangel innerhalb der nächsten vier Wochen zu beseitigen, indem der Antrag mit weiteren Unterstützenden ergänzt wird. Wird das Quorum auch dann nicht erreicht, so ist das Abstimmungsverlangen endgültig abzulehnen. Die Nachprüfung der ergänzenden Unterstützenden erfolgt anhand des gleichen Antragsberechtigtenverzeichnis.
+
+=== § 9 Antragsberechtigtenverzeichnis
+(1) Das SP-Präsidium stellt bei der Hochschulverwaltung den Antrag auf Erstellung eines Antragsberechtigtenverzeichnis, wenn möglich auf ein elektronisches Verzeichnis. Alle Antragsberechtigten am letzten Tage der Einreichung des Abstimmungsverlangen, sind in dem Verzeichnis mit Namen, Vornamen, Matrikelnummer und dem Geburtsdatum aufzuführen. Die Gesamtzahl der aufgeführten Berechtigten ist mit anzugeben.
+
+(2) Das Abstimmungsverzeichnis wird nach Abschluss der Prüfung unter Aufsicht des Präsidiums vernichtet. Es darf nicht an Unbefugte weitergegeben werden, ist nur gegen schriftliche Bestätigung auszugeben und unter Verschluss zu nehmen, wenn es nicht benutzt wird.
+
+=== § 10 Vorprüfung
+Auf Antrag von Antragsberechtigten prüft das SP-Präsidium noch vor Einreichung eines Abstimmungsverlangen, ob ein bestimmtes Abstimmungsverlangen stattgegeben werden könnte. Eine Vorprüfung des Quorums findet nicht statt.
+
+== III. Vorbereitung und Durchführung der Urabstimmung
+=== § 11 Festlegung des Abstimmungstermins
+(1) Das SP legt den Termin der Urabstimmung auf Antrag und Vorschlag der Antragstellenden fest. Im Sommersemester soll die Urabstimmung zusammen mit der SP-Wahl stattfinden.
+
+(2) Urabstimmungen auf Beschluss des SP finden zusammen mit der nächsten SP-Wahl statt. Der Beschluss muss spätestens am 50. Tag vor dem ersten Tag der SP-Wahl erfolgen.
+
+=== § 12 Urabstimmungsausschuss
+(1) Das SP bestellt zur Vorbereitung und für die Durchführung der Urabstimmung einen Urabstimmungsausschuss. Bei Streitigkeiten über die Auslegung der Urabstimmungsordnung entscheidet der Urabstimmungsausschuss.
+
+(2) Die Antragstellenden können dem Urabstimmungsausschuss nicht angehören und können nicht als Freiwillige bei der Durchführung der Urabstimmung unterstützen.
+
+(3) Finden Urabstimmungen zusammen mit einer SP-Wahl statt, so werden die Aufgaben des Urabstimmungsausschusses vom Wahlausschuss wahrgenommen. Der Mehraufwand des Wahlausschusses ist mit einer angemessenen Erhöhung der Aufwandsentschädigung zu entschädigen.
+
+(4) xref:wahlordnung::index.adoc#_7_wahlausschuss[§ 7 Absätze 2, 4, 5 und 6 der Wahlordnung] finden auf den Urabstimmungsausschuss entsprechend Anwendung.
+
+=== § 13 Abstimmungsbekanntmachung
+(1) Der Vorsitz des Urabstimmungsausschusses macht die Abstimmung spätestens am 40. Tag vor dem ersten Abstimmungstag öffentlich durch Aushang an der für die Bekanntmachungen der Studierendenschaft vorgesehenen Anschlagtafel bekannt. Darüber hinaus wird die Urabstimmung über alle öffentliche Kommunikationskanäle des AStA bekannt gemacht. Alle weiteren Publikationsformen sollen nach Maßgabe der Möglichkeiten genutzt werden.
+
+(2) Die Bekanntmachung muss mindestens enthalten:
+
+1. Ort und Datum ihrer Veröffentlichung,
+2. die Abstimmungstage,
+3. den Titel der Urabstimmung,
+4. den Beschlusstext,
+5. den Hinweis darauf, dass jedes Mitglied der Studierendenschaft abstimmungsberechtigt ist,
+6. den Hinweis auf Ort und Zeit der Auslage des Abstimmungsverzeichnisses,
+7. den Hinweis auf die Einspruchsmöglichkeit gegen die Richtigkeit des Abstimmungsverzeichnisses,
+8. den Hinweis darauf, dass diejenigen, die nicht im Abstimmungsverzeichnis aufgeführt sind und diejenigen, die dagegen nicht fristgemäß Einspruch erhoben haben, der Nachweis ihrer Abstimmungsberechtigung obliegt,
+9. Orte und Zeiten der Stimmabgabe,
+10. der Hinweis auf das Quorum ab dem der Beschluss der Urabstimmung verbindlich wird,
+11. die Angabe von Ort und Zeit, wo und wann eine Abstimmung ohne Studierendenausweis möglich ist,
+12. einen Hinweis auf die Möglichkeit eines Antrages auf Briefabstimmung sowie die Angabe, wie ein solcher Antrag gestellt werden kann, und die bei der Briefabstimmung zu beachtenden Fristen,
+13. den Ort und den Termin der Auszählung der Stimmen und
+14. Angaben in welcher vom Urabstimmungsausschuss zugelassenen Weise der Nachweis der Abstimmungsberechtigung an der Urne erbracht werden kann ohne im Abstimmungsverzeichnis aufgeführt zu sein und
+15. die Frist, innerhalb derer Stellungnahmen zur Abstimmungsfrage eingereicht werden können, und beschlossene einzuhaltende Beschränkungen.
+
+=== § 14 Ausgestaltung der Stimmzettel
+(1) Auf dem Stimmzettel besteht nur die Möglichkeit eine Ja- oder eine Nein-Stimme abzugeben.
+
+(2) Der Stimmzettel enthält den Beschlusstext und den Titel der Urabstimmung.
+
+(3) Bei gleichzeitiger Wahl des Studierendenparlamentes oder eines Fachschaftsorgans unter Verwendung derselben Urnen müssen die Stimmzettel der Wahlen und der Urabstimmungen deutlich zu unterscheiden sein.
+
+=== § 15 Informationsbroschüre
+(1) Der Urabstimmungsausschuss erstellt eine Broschüre in die Stellungnahmen von den einzelnen Fraktionen des SP und von den Antragstellenden zum Gegenstand der Urabstimmung abgedruckt werden.
+
+(2) Findet die Urabstimmung zusammen mit einer SP-Wahl statt, so ist auch den antretenden Listen jeweils eine Stellungnahme einzuräumen. Betrifft der Gegenstand der Urabstimmung die Arbeit der Fachschaften oder der FSVK, so kann auch die FSVK eine Stellungnahme abgeben. Das Gleiche gilt für die Arbeit der autonomen Referate für die einzelnen autonomen Referate.
+
+(3) Die Broschüre ist an allen Urnen auszulegen und bei der Verschickung der Unterlagen für eine Briefabstimmung mitzuschicken. Die Broschüre ist als PDF auf der Webseite des AStA zugänglich zu machen. Zusätzlich soll die Broschüre nach Maßgabe der Möglichkeiten den Abstimmungsberechtigten auf anderen Wegen zur Kenntnis gebracht werden.
+
+(4) Der Urabstimmungsausschuss bestimmt eine Frist bis zu der die Stellungnahmen beim Ausschussvorsitz abzugeben sind. Der Urabstimmungsausschuss kann Beschränkungen und Vorgaben hinsichtlich der Form und des Umfangs der einzelnen Stellungnahmen beschließen, sofern die Vorgaben für alle gleich gelten.
+
+=== § 16 Veröffentlichung des Abstimmungsergebnisses
+(1) Für die Veröffentlichung des Abstimmungsergebnisses findet xref:wahlordnung::index.adoc#_18_veröffentlichung_des_wahlergebnisses[§ 18 Absatz 1 der Wahlordnung] entsprechend Anwendung.
+
+(2) Die Bekanntmachung des Abstimmungsergebnisses muss enthalten:
+
+1. Ort und Zeit der Veröffentlichung,
+2. die Zahl der Abstimmungsberechtigten,
+3. die Zahl der abgegebenen Stimmen,
+4. die Zahl der ungültigen Stimmen,
+5. die Zahl der gültigen Stimmen,
+6. die Zahl der Ja-Stimmen,
+7. die Zahl der Nein-Stimmen,
+8. die Höhe des Quorums nach xref:satzung::index.adoc#_6_diskriminierungsverbot_für_veranstaltungen[§ 6 Absatz 3 der Satzung] in Stimmen,
+9. der Hinweis, ob das Quorum erreicht worden ist,
+10. die Unterschrift des Urabstimmungsausschussvorsitzes.
+
+=== § 17 Gültigkeit der Urabstimmung
+(1) Die Urabstimmung ist mit der Bekanntmachung des Abstimmungsergebnisses gültig.
+
+(2) Gegen die Gültigkeit der Urabstimmung können alle Abstimmungsberechtigten Einspruch erheben, der innerhalb von 14 Tagen nach Veröffentlichung des Abstimmungsergebnisses beim Rechtsausschuss einzureichen ist. Die Beschwerde hat aufschiebende Wirkung.
+
+(2) Die Prüfung und Entscheidung über den Einspruch obliegt dem Rechtsausschuss.
+
+(3) Die Feststellung des Abstimmungsergebnisses ist für ungültig zu erklären, wenn die Bestimmungen zur Stimmauszählung verletzt worden sind oder andere Unregelmäßigkeiten im Abstimmungsergebnis eine Neufeststellung gebieten.
+
+(3) Wird im Prüfungsverfahren die Feststellung des Abstimmungsergebnisses für ungültig erklärt, so ist sie aufgehoben und eine unverzügliche Neufeststellung in dem in der Entscheidung bestimmten Umfang vom Urabstimmungsausschuss vorzunehmen.
+
+(4) Die Urabstimmung ist für ungültig zu erklären, wenn wesentliche Bestimmungen über die Vorbereitung, die Abstimmungsberechtigung oder das Abstimmungsverfahren verletzt worden sind, es sei denn, dass dies sich nicht auf die Frage der Verbindlichkeit der Urabstimmung nach xref:satzung::index.adoc#_6_diskriminierungsverbot_für_veranstaltungen[§ 6 Absatz 3] der Satzung auswirkt.
+
+(5) Wird im Prüfungsverfahren die Abstimmung ganz oder teilweise für ungültig erklärt, so ist sie unverzüglich in dem in der Entscheidung bestimmten Umfang zu wiederholen. Bei Urabstimmungen auf Grund von Beschlüssen des SP kann das SP mit zwei Drittel Mehrheit der Abstimmenden beschließen von einer Wiederholung abzusehen.
+
+=== § 18 Ausfertigung des Beschlusses
+(1) Wird kein Einspruch erhoben oder ist der Beschluss des Rechtsausschusses unanfechtbar geworden oder im verwaltungsgerichtlichen Verfahren rechtskräftig bestätigt worden und ist das Quorum nach xref:satzung::index.adoc#_6_diskriminierungsverbot_für_veranstaltungen[§ 6 Absatz 3 der Satzung] erreicht worden, so wird der Beschluss der Urabstimmung verbindlich.
+
+(2) Das SP-Präsidium hat den Beschluss auszufertigen. xref:satzung::index.adoc#_5_allgemeine_bestimmungen_für_die_organe_und_gremien[§ 5 Absatz 2 der Satzung] findet entsprechend Anwendung.
